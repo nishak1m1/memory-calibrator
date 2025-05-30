@@ -1,0 +1,462 @@
+{
+    "cluster_sync": [
+        {
+            "timestamp": "2025-05-30T12:06:38.061283",
+            "memory.limit_in_bytes": 367001600,
+            "memory.usage_in_bytes": 121180160,
+            "memory.max_usage_in_bytes": 134545408
+        },
+        {
+            "timestamp": "2025-05-30T12:07:02.289848",
+            "memory.limit_in_bytes": 367001600,
+            "memory.usage_in_bytes": 121180160,
+            "memory.max_usage_in_bytes": 134545408
+        },
+        {
+            "timestamp": "2025-05-30T12:07:08.295060",
+            "memory.limit_in_bytes": 367001600,
+            "memory.usage_in_bytes": 121180160,
+            "memory.max_usage_in_bytes": 134545408
+        },
+        {
+            "timestamp": "2025-05-30T12:07:14.295055",
+            "memory.limit_in_bytes": 367001600,
+            "memory.usage_in_bytes": 121180160,
+            "memory.max_usage_in_bytes": 134545408
+        },
+        {
+            "timestamp": "2025-05-30T12:07:20.295877",
+            "memory.limit_in_bytes": 367001600,
+            "memory.usage_in_bytes": 121180160,
+            "memory.max_usage_in_bytes": 134545408
+        },
+        {
+            "timestamp": "2025-05-30T12:07:26.289921",
+            "memory.limit_in_bytes": 367001600,
+            "memory.usage_in_bytes": 121184256,
+            "memory.max_usage_in_bytes": 134545408
+        },
+        {
+            "timestamp": "2025-05-30T12:07:32.294064",
+            "memory.limit_in_bytes": 367001600,
+            "memory.usage_in_bytes": 121184256,
+            "memory.max_usage_in_bytes": 134545408
+        },
+        {
+            "timestamp": "2025-05-30T12:07:38.295052",
+            "memory.limit_in_bytes": 367001600,
+            "memory.usage_in_bytes": 121184256,
+            "memory.max_usage_in_bytes": 134545408
+        },
+        {
+            "timestamp": "2025-05-30T12:07:44.295381",
+            "memory.limit_in_bytes": 367001600,
+            "memory.usage_in_bytes": 121184256,
+            "memory.max_usage_in_bytes": 134545408
+        },
+        {
+            "timestamp": "2025-05-30T12:07:50.295050",
+            "memory.limit_in_bytes": 367001600,
+            "memory.usage_in_bytes": 121184256,
+            "memory.max_usage_in_bytes": 134545408
+        },
+        {
+            "timestamp": "2025-05-30T12:07:56.295061",
+            "memory.limit_in_bytes": 367001600,
+            "memory.usage_in_bytes": 121184256,
+            "memory.max_usage_in_bytes": 134545408
+        },
+        {
+            "timestamp": "2025-05-30T12:08:38.184853",
+            "memory.limit_in_bytes": 367001600,
+            "memory.usage_in_bytes": 121184256,
+            "memory.max_usage_in_bytes": 134545408
+        },
+        {
+            "timestamp": "2025-05-30T12:09:38.241136",
+            "memory.limit_in_bytes": 367001600,
+            "memory.usage_in_bytes": 121196544,
+            "memory.max_usage_in_bytes": 134545408
+        },
+        {
+            "timestamp": "2025-05-30T12:10:38.288310",
+            "memory.limit_in_bytes": 367001600,
+            "memory.usage_in_bytes": 121184256,
+            "memory.max_usage_in_bytes": 134545408
+        },
+        {
+            "timestamp": "2025-05-30T12:11:38.323219",
+            "memory.limit_in_bytes": 367001600,
+            "memory.usage_in_bytes": 121184256,
+            "memory.max_usage_in_bytes": 134545408
+        }
+    ],
+    "cluster_health": [
+        {
+            "timestamp": "2025-05-30T12:06:38.061283",
+            "memory.limit_in_bytes": 838860800,
+            "memory.usage_in_bytes": 813993984,
+            "memory.max_usage_in_bytes": 838860800
+        },
+        {
+            "timestamp": "2025-05-30T12:07:02.289848",
+            "memory.limit_in_bytes": 838860800,
+            "memory.usage_in_bytes": 814092288,
+            "memory.max_usage_in_bytes": 838860800
+        },
+        {
+            "timestamp": "2025-05-30T12:07:08.295060",
+            "memory.limit_in_bytes": 838860800,
+            "memory.usage_in_bytes": 814120960,
+            "memory.max_usage_in_bytes": 838860800
+        },
+        {
+            "timestamp": "2025-05-30T12:07:14.295055",
+            "memory.limit_in_bytes": 838860800,
+            "memory.usage_in_bytes": 819822592,
+            "memory.max_usage_in_bytes": 838860800
+        },
+        {
+            "timestamp": "2025-05-30T12:07:20.295877",
+            "memory.limit_in_bytes": 838860800,
+            "memory.usage_in_bytes": 819867648,
+            "memory.max_usage_in_bytes": 838860800
+        },
+        {
+            "timestamp": "2025-05-30T12:07:26.289921",
+            "memory.limit_in_bytes": 838860800,
+            "memory.usage_in_bytes": 821219328,
+            "memory.max_usage_in_bytes": 838860800
+        },
+        {
+            "timestamp": "2025-05-30T12:07:32.294064",
+            "memory.limit_in_bytes": 838860800,
+            "memory.usage_in_bytes": 821911552,
+            "memory.max_usage_in_bytes": 838860800
+        },
+        {
+            "timestamp": "2025-05-30T12:07:38.295052",
+            "memory.limit_in_bytes": 838860800,
+            "memory.usage_in_bytes": 821891072,
+            "memory.max_usage_in_bytes": 838860800
+        },
+        {
+            "timestamp": "2025-05-30T12:07:44.295381",
+            "memory.limit_in_bytes": 838860800,
+            "memory.usage_in_bytes": 822034432,
+            "memory.max_usage_in_bytes": 838860800
+        },
+        {
+            "timestamp": "2025-05-30T12:07:50.295050",
+            "memory.limit_in_bytes": 838860800,
+            "memory.usage_in_bytes": 821956608,
+            "memory.max_usage_in_bytes": 838860800
+        },
+        {
+            "timestamp": "2025-05-30T12:07:56.295061",
+            "memory.limit_in_bytes": 838860800,
+            "memory.usage_in_bytes": 818712576,
+            "memory.max_usage_in_bytes": 838860800
+        },
+        {
+            "timestamp": "2025-05-30T12:08:38.184853",
+            "memory.limit_in_bytes": 838860800,
+            "memory.usage_in_bytes": 816431104,
+            "memory.max_usage_in_bytes": 838860800
+        },
+        {
+            "timestamp": "2025-05-30T12:09:38.241136",
+            "memory.limit_in_bytes": 838860800,
+            "memory.usage_in_bytes": 824328192,
+            "memory.max_usage_in_bytes": 838860800
+        },
+        {
+            "timestamp": "2025-05-30T12:10:38.288310",
+            "memory.limit_in_bytes": 838860800,
+            "memory.usage_in_bytes": 803323904,
+            "memory.max_usage_in_bytes": 838860800
+        },
+        {
+            "timestamp": "2025-05-30T12:11:38.323219",
+            "memory.limit_in_bytes": 838860800,
+            "memory.usage_in_bytes": 794824704,
+            "memory.max_usage_in_bytes": 838860800
+        }
+    ],
+    "prism": [
+        {
+            "timestamp": "2025-05-30T12:06:38.061283",
+            "memory.limit_in_bytes": 1715470336,
+            "memory.usage_in_bytes": 1654484992,
+            "memory.max_usage_in_bytes": 1715470336
+        },
+        {
+            "timestamp": "2025-05-30T12:07:02.289848",
+            "memory.limit_in_bytes": 1715470336,
+            "memory.usage_in_bytes": 1657929728,
+            "memory.max_usage_in_bytes": 1715470336
+        },
+        {
+            "timestamp": "2025-05-30T12:07:08.295060",
+            "memory.limit_in_bytes": 1715470336,
+            "memory.usage_in_bytes": 1679945728,
+            "memory.max_usage_in_bytes": 1715470336
+        },
+        {
+            "timestamp": "2025-05-30T12:07:14.295055",
+            "memory.limit_in_bytes": 1715470336,
+            "memory.usage_in_bytes": 1654521856,
+            "memory.max_usage_in_bytes": 1715470336
+        },
+        {
+            "timestamp": "2025-05-30T12:07:20.295877",
+            "memory.limit_in_bytes": 1715470336,
+            "memory.usage_in_bytes": 1654534144,
+            "memory.max_usage_in_bytes": 1715470336
+        },
+        {
+            "timestamp": "2025-05-30T12:07:26.289921",
+            "memory.limit_in_bytes": 1715470336,
+            "memory.usage_in_bytes": 1654538240,
+            "memory.max_usage_in_bytes": 1715470336
+        },
+        {
+            "timestamp": "2025-05-30T12:07:32.294064",
+            "memory.limit_in_bytes": 1715470336,
+            "memory.usage_in_bytes": 1654542336,
+            "memory.max_usage_in_bytes": 1715470336
+        },
+        {
+            "timestamp": "2025-05-30T12:07:38.295052",
+            "memory.limit_in_bytes": 1715470336,
+            "memory.usage_in_bytes": 1654550528,
+            "memory.max_usage_in_bytes": 1715470336
+        },
+        {
+            "timestamp": "2025-05-30T12:07:44.295381",
+            "memory.limit_in_bytes": 1715470336,
+            "memory.usage_in_bytes": 1654550528,
+            "memory.max_usage_in_bytes": 1715470336
+        },
+        {
+            "timestamp": "2025-05-30T12:07:50.295050",
+            "memory.limit_in_bytes": 1715470336,
+            "memory.usage_in_bytes": 1654558720,
+            "memory.max_usage_in_bytes": 1715470336
+        },
+        {
+            "timestamp": "2025-05-30T12:07:56.295061",
+            "memory.limit_in_bytes": 1715470336,
+            "memory.usage_in_bytes": 1654571008,
+            "memory.max_usage_in_bytes": 1715470336
+        },
+        {
+            "timestamp": "2025-05-30T12:08:38.184853",
+            "memory.limit_in_bytes": 1715470336,
+            "memory.usage_in_bytes": 1654484992,
+            "memory.max_usage_in_bytes": 1715470336
+        },
+        {
+            "timestamp": "2025-05-30T12:09:38.241136",
+            "memory.limit_in_bytes": 1715470336,
+            "memory.usage_in_bytes": 1654566912,
+            "memory.max_usage_in_bytes": 1715470336
+        },
+        {
+            "timestamp": "2025-05-30T12:10:38.288310",
+            "memory.limit_in_bytes": 1715470336,
+            "memory.usage_in_bytes": 1654501376,
+            "memory.max_usage_in_bytes": 1715470336
+        },
+        {
+            "timestamp": "2025-05-30T12:11:38.323219",
+            "memory.limit_in_bytes": 1715470336,
+            "memory.usage_in_bytes": 1654575104,
+            "memory.max_usage_in_bytes": 1715470336
+        }
+    ],
+    "sys_stat_collector": [
+        {
+            "timestamp": "2025-05-30T12:06:38.061283",
+            "memory.limit_in_bytes": 536870912,
+            "memory.usage_in_bytes": 468000768,
+            "memory.max_usage_in_bytes": 536870912
+        },
+        {
+            "timestamp": "2025-05-30T12:07:02.289848",
+            "memory.limit_in_bytes": 536870912,
+            "memory.usage_in_bytes": 444395520,
+            "memory.max_usage_in_bytes": 536870912
+        },
+        {
+            "timestamp": "2025-05-30T12:07:08.295060",
+            "memory.limit_in_bytes": 536870912,
+            "memory.usage_in_bytes": 475774976,
+            "memory.max_usage_in_bytes": 536870912
+        },
+        {
+            "timestamp": "2025-05-30T12:07:14.295055",
+            "memory.limit_in_bytes": 536870912,
+            "memory.usage_in_bytes": 451727360,
+            "memory.max_usage_in_bytes": 536870912
+        },
+        {
+            "timestamp": "2025-05-30T12:07:20.295877",
+            "memory.limit_in_bytes": 536870912,
+            "memory.usage_in_bytes": 436285440,
+            "memory.max_usage_in_bytes": 536870912
+        },
+        {
+            "timestamp": "2025-05-30T12:07:26.289921",
+            "memory.limit_in_bytes": 536870912,
+            "memory.usage_in_bytes": 475942912,
+            "memory.max_usage_in_bytes": 536870912
+        },
+        {
+            "timestamp": "2025-05-30T12:07:32.294064",
+            "memory.limit_in_bytes": 536870912,
+            "memory.usage_in_bytes": 445632512,
+            "memory.max_usage_in_bytes": 536870912
+        },
+        {
+            "timestamp": "2025-05-30T12:07:38.295052",
+            "memory.limit_in_bytes": 536870912,
+            "memory.usage_in_bytes": 474980352,
+            "memory.max_usage_in_bytes": 536870912
+        },
+        {
+            "timestamp": "2025-05-30T12:07:44.295381",
+            "memory.limit_in_bytes": 536870912,
+            "memory.usage_in_bytes": 478978048,
+            "memory.max_usage_in_bytes": 536870912
+        },
+        {
+            "timestamp": "2025-05-30T12:07:50.295050",
+            "memory.limit_in_bytes": 536870912,
+            "memory.usage_in_bytes": 441061376,
+            "memory.max_usage_in_bytes": 536870912
+        },
+        {
+            "timestamp": "2025-05-30T12:07:56.295061",
+            "memory.limit_in_bytes": 536870912,
+            "memory.usage_in_bytes": 480653312,
+            "memory.max_usage_in_bytes": 536870912
+        },
+        {
+            "timestamp": "2025-05-30T12:08:38.184853",
+            "memory.limit_in_bytes": 536870912,
+            "memory.usage_in_bytes": 471085056,
+            "memory.max_usage_in_bytes": 536870912
+        },
+        {
+            "timestamp": "2025-05-30T12:09:38.241136",
+            "memory.limit_in_bytes": 536870912,
+            "memory.usage_in_bytes": 475754496,
+            "memory.max_usage_in_bytes": 536870912
+        },
+        {
+            "timestamp": "2025-05-30T12:10:38.288310",
+            "memory.limit_in_bytes": 536870912,
+            "memory.usage_in_bytes": 477229056,
+            "memory.max_usage_in_bytes": 536870912
+        },
+        {
+            "timestamp": "2025-05-30T12:11:38.323219",
+            "memory.limit_in_bytes": 536870912,
+            "memory.usage_in_bytes": 479100928,
+            "memory.max_usage_in_bytes": 536870912
+        }
+    ],
+    "global_memory": [
+        {
+            "timestamp": "2025-05-30T12:06:38.061283",
+            "memory.limit_in_bytes": 9223372036854771712,
+            "memory.usage_in_bytes": 27027898368,
+            "memory.max_usage_in_bytes": 24603095040
+        },
+        {
+            "timestamp": "2025-05-30T12:07:02.289848",
+            "memory.limit_in_bytes": 9223372036854771712,
+            "memory.usage_in_bytes": 27054940160,
+            "memory.max_usage_in_bytes": 24603095040
+        },
+        {
+            "timestamp": "2025-05-30T12:07:08.295060",
+            "memory.limit_in_bytes": 9223372036854771712,
+            "memory.usage_in_bytes": 27066609664,
+            "memory.max_usage_in_bytes": 24603095040
+        },
+        {
+            "timestamp": "2025-05-30T12:07:14.295055",
+            "memory.limit_in_bytes": 9223372036854771712,
+            "memory.usage_in_bytes": 27018792960,
+            "memory.max_usage_in_bytes": 24603095040
+        },
+        {
+            "timestamp": "2025-05-30T12:07:20.295877",
+            "memory.limit_in_bytes": 9223372036854771712,
+            "memory.usage_in_bytes": 27009998848,
+            "memory.max_usage_in_bytes": 24603095040
+        },
+        {
+            "timestamp": "2025-05-30T12:07:26.289921",
+            "memory.limit_in_bytes": 9223372036854771712,
+            "memory.usage_in_bytes": 27058917376,
+            "memory.max_usage_in_bytes": 24603095040
+        },
+        {
+            "timestamp": "2025-05-30T12:07:32.294064",
+            "memory.limit_in_bytes": 9223372036854771712,
+            "memory.usage_in_bytes": 27009101824,
+            "memory.max_usage_in_bytes": 24603095040
+        },
+        {
+            "timestamp": "2025-05-30T12:07:38.295052",
+            "memory.limit_in_bytes": 9223372036854771712,
+            "memory.usage_in_bytes": 27039764480,
+            "memory.max_usage_in_bytes": 24603095040
+        },
+        {
+            "timestamp": "2025-05-30T12:07:44.295381",
+            "memory.limit_in_bytes": 9223372036854771712,
+            "memory.usage_in_bytes": 27041058816,
+            "memory.max_usage_in_bytes": 24603095040
+        },
+        {
+            "timestamp": "2025-05-30T12:07:50.295050",
+            "memory.limit_in_bytes": 9223372036854771712,
+            "memory.usage_in_bytes": 27021991936,
+            "memory.max_usage_in_bytes": 24603095040
+        },
+        {
+            "timestamp": "2025-05-30T12:07:56.295061",
+            "memory.limit_in_bytes": 9223372036854771712,
+            "memory.usage_in_bytes": 27046105088,
+            "memory.max_usage_in_bytes": 24603095040
+        },
+        {
+            "timestamp": "2025-05-30T12:08:38.184853",
+            "memory.limit_in_bytes": 9223372036854771712,
+            "memory.usage_in_bytes": 27029245952,
+            "memory.max_usage_in_bytes": 24603095040
+        },
+        {
+            "timestamp": "2025-05-30T12:09:38.241136",
+            "memory.limit_in_bytes": 9223372036854771712,
+            "memory.usage_in_bytes": 27040751616,
+            "memory.max_usage_in_bytes": 24603095040
+        },
+        {
+            "timestamp": "2025-05-30T12:10:38.288310",
+            "memory.limit_in_bytes": 9223372036854771712,
+            "memory.usage_in_bytes": 27036106752,
+            "memory.max_usage_in_bytes": 24603095040
+        },
+        {
+            "timestamp": "2025-05-30T12:11:38.323219",
+            "memory.limit_in_bytes": 9223372036854771712,
+            "memory.usage_in_bytes": 27038629888,
+            "memory.max_usage_in_bytes": 24603095040
+        }
+    ]
+}
