@@ -68,9 +68,19 @@ def cgroup_parser(cgroups, sampling_interval, sampling_time):
                     cgroup_entry[key] = None
             log_data[cgroup_name].append(cgroup_entry)
             logging.info(f"Log data collected at {timestamp} for {directory}")
-        # Save log data to a JSON file
+
+        log_summary = {}
+        for cgroup_name, entries in log_data.items():
+            if isinstance(entries, list):
+                log_summary[cgroup_name] = len(entries)
+        # Combine data and summary into a final structure
+        output_data = {
+                "log_summary": log_summary,
+                "log_data": log_data
+        }
+        # Save the combined data
         with open(OUTPUT_LOG_FILE, 'w') as json_file:
-            json.dump(log_data, json_file, indent=4)
+            json.dump(output_data, json_file, indent=4)
         #logging.info(f"Log data collected at {timestamp} for ")
 
         # Ensure the correct sampling interval
@@ -79,14 +89,15 @@ def cgroup_parser(cgroups, sampling_interval, sampling_time):
         if remaining_time > 0:
             time.sleep(remaining_time)
 
-
 def create_stats_from_sample():
     """
     Parse the collected data, compute statistics, and save results to a JSON file.
     """
     try:
         with open(OUTPUT_LOG_FILE, 'r') as json_file:
-            log_data = json.load(json_file)
+            full_data = json.load(json_file)
+            log_data = full_data.get("log_data", {})  # Only process actual logs
+
     except FileNotFoundError:
         #logging.error("Log data file not found. Run the data collection step first.")
         return
