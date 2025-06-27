@@ -1,0 +1,33 @@
+version: "3.0"
+
+services:
+  db:
+    image: postgres:17.5
+    container_name: pg-cgroup
+    environment:
+      POSTGRES_DB: cgroup_monitor
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: secretpassntnx
+    volumes:
+      - ./db-init:/docker-entrypoint-initdb.d
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  api:
+    build: ./api_server
+    container_name: cgroup-api
+    environment:
+      DB_NAME: cgroup_monitor
+      DB_USER: admin
+      DB_PASS: secretpassntnx
+      DB_HOST: db
+      DB_PORT: 5432
+    ports:
+      - "8001:8001"
+    depends_on:
+      - db
+
+volumes:
+  pgdata:
+
